@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="117" updatableVersionMin="" updatableVersionMax="" fileName="serivce_dog_windows-x64_1_0.exe" newVersion="1.0" newMediaFileId="117" fileSize="4374016" bundledJre="" archive="false">
+    <comment language="zh_CN" />
+  </entry>
+</updateDescriptor>
+
