@@ -1,0 +1,4 @@
+2014-09-01 13:34:05  service.ServiceThread.run(ServiceThread.java:38)  SERVICE_NAME: fileservertomcat         TYPE               : 10  WIN32_OWN_PROCESS          STATE              : 4  RUNNING                                 (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)        WIN32_EXIT_CODE    : 0  (0x0)        SERVICE_EXIT_CODE  : 0  (0x0)
+2014-09-01 13:34:05  service.ServiceThread.run(ServiceThread.java:41)  fileservertomcat服务启动已在运行
+2014-09-01 13:34:10  service.ServiceThread.run(ServiceThread.java:38)  SERVICE_NAME: fileservertomcat         TYPE               : 10  WIN32_OWN_PROCESS          STATE              : 4  RUNNING                                 (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)        WIN32_EXIT_CODE    : 0  (0x0)        SERVICE_EXIT_CODE  : 0  (0x0)
+2014-09-01 13:34:10  service.ServiceThread.run(ServiceThread.java:41)  fileservertomcat服务启动已在运行
